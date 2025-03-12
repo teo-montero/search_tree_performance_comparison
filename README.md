@@ -1,2 +1,1 @@
-# search_tree_performance_comparison
-Balancing Search Tree Experimental Performance Comparison
+# Balancing Search Tree Experimental Performance Comparison
